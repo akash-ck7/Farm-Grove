@@ -1,0 +1,84 @@
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  background-image: url("../assets/img/resgister/resgister-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
+.register-box {
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 40px;
+  border-radius: 16px;
+  width: 600px;
+  max-width: 600px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.form-title {
+  font-size: 24px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.form-subtitle {
+  font-size: 14px;
+  text-align: center;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.register-form .form-row {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.register-form .input-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+.input-group label {
+  font-weight: 500;
+  margin-bottom: 4px;
+  color: #333;
+}
+
+.input-group input,
+.input-group select {
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  outline: none;
+}
+
+.input-group input:focus,
+.input-group select:focus {
+  border-color: #1e9c5d;
+}
+
+.register-button {
+  width: 100%;
+  padding: 12px;
+  background-color: #1e9c5d;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.register-button:hover {
+  background-color: #15824a;
+}

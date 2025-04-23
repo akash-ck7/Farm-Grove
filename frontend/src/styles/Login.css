@@ -1,0 +1,84 @@
+/* styles/Login.css */
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 20px;
+    background-image: url("../assets/img/resgister/resgister-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+  }
+  
+  .login-box {
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 40px;
+    border-radius: 16px;
+    width: 100%;
+    max-width: 500px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  
+  .form-title {
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .form-subtitle {
+    font-size: 14px;
+    text-align: center;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .login-form .form-row {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .input-group {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .input-group label {
+    font-weight: 500;
+    margin-bottom: 4px;
+    color: #333;
+  }
+  
+  .input-group input {
+    padding: 10px 14px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    outline: none;
+  }
+  
+  .input-group input:focus {
+    border-color: #1e9c5d;
+  }
+  
+  .login-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #1e9c5d;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: 0.3s;
+  }
+  
+  .login-button:hover {
+    background-color: #15824a;
+  }
