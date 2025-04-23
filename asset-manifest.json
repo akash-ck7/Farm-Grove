@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Farm-Grove/static/css/main.1fd30d0e.css",
+    "main.js": "/Farm-Grove/static/js/main.2e9f026e.js",
+    "static/js/453.8ab44547.chunk.js": "/Farm-Grove/static/js/453.8ab44547.chunk.js",
+    "static/media/heroimage2.jpg": "/Farm-Grove/static/media/heroimage2.99fd36974ea904747e7c.jpg",
+    "static/media/dry-friuits-card.jpg": "/Farm-Grove/static/media/dry-friuits-card.d8985d00ce279d3a03b5.jpg",
+    "static/media/resgister-bg.jpg": "/Farm-Grove/static/media/resgister-bg.5c1be10248faa216d2d8.jpg",
+    "static/media/fruits-card.jpeg": "/Farm-Grove/static/media/fruits-card.53b07c4a35174e5804fe.jpeg",
+    "static/media/grains-card.jpeg": "/Farm-Grove/static/media/grains-card.55af503308da7ade3266.jpeg",
+    "static/media/Veg-Card.jpeg": "/Farm-Grove/static/media/Veg-Card.bfc20fb4b25d0298bb16.jpeg",
+    "index.html": "/Farm-Grove/index.html",
+    "main.1fd30d0e.css.map": "/Farm-Grove/static/css/main.1fd30d0e.css.map",
+    "main.2e9f026e.js.map": "/Farm-Grove/static/js/main.2e9f026e.js.map",
+    "453.8ab44547.chunk.js.map": "/Farm-Grove/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fd30d0e.css",
+    "static/js/main.2e9f026e.js"
+  ]
+}
